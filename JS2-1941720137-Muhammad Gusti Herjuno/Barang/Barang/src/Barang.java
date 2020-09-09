@@ -4,10 +4,6 @@ public class Barang {
     public int hargaDasar;
     public float diskon;
 
-<<<<<<< HEAD
-=======
-    //hitung disk
->>>>>>> 7491599... 1941720137-Muhammad Gusti Herjuno
     public int diskon(){
         int disc;
         disc = (int)(diskon*100);
